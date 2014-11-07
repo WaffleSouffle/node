@@ -60,3 +60,4 @@ deps/openssl/openssl.xml
 
 # test artifacts
 tools/faketime
+*.mk
